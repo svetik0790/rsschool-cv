@@ -8,7 +8,7 @@ E-mail: svetik0790@tut.by
 
 GitHub: svetik0790
 
-### v<mark>WORK EXPERIENCE</mark>
+### <mark>WORK EXPERIENCE</mark>
 
 <u>12.2016 - present</u> - **Embassy of the Republic of Poland in the Republic of Belarus Assistant** 
 on visa issues at the Consular Department
