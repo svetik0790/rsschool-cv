@@ -1,4 +1,4 @@
-#Svetlana Lisichenka, Junior JS/Front-end developer
+# Svetlana Lisichenka, Junior JS/Front-end developer
 
 Location: Minsk, Belarus
 Phone: +37529 874-40-33 (Telegram, Viber)
@@ -6,6 +6,7 @@ E-mail: svetik0790@tut.by
 GitHub: svetik0790
 
 <mark>WORK EXPERIENCE</mark>
+
 <u>12.2016 - present</u> - **Embassy of the Republic of Poland in the Republic of Belarus Assistant** 
 on visa issues at the Consular Department
 
@@ -14,6 +15,7 @@ Customer service specialist
 with a combination of duties  Human Resources Manager 
 
 <mark>EDUCATION AND COURSES</mark>
+
 <u>present</u> - RS Schools
 **"JavaScript/Front-end. Stage 0"**
 
@@ -30,6 +32,7 @@ Economic law (Lawyer)
 Jurisprudence (Lawyer)
 
 <mark>SKILLS</mark>
+
 * HTML, CSS
 * JavaScript (Basic)
 * Git, GitHub
