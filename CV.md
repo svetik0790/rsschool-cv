@@ -22,3 +22,10 @@ with a combination of duties  Human Resources Manager
 Economic law (Lawyer)
 <u>2010</u> - College of Trade and Economics in Molodechno
 Jurisprudence (Lawyer)
+
+<mark>___SKILLS___</mark>
+* HTML, CSS
+* JavaScript (Basic)
+* Git, GitHub
+* VS Code 
+* Figma, Adobe Photoshop
