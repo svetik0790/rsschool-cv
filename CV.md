@@ -28,10 +28,10 @@ Customer service specialist with a combination of duties  Human Resources Manage
 **Polish language (B-2)**
 
 <u>2017</u> - Belarusian Law Institute "BIP" - 
-Economic law (Lawyer)
+*Economic law (Lawyer)*
 
 <u>2010</u> - College of Trade and Economics in Molodechno - 
-Jurisprudence (Lawyer)
+*Jurisprudence (Lawyer)*
 
 ### <mark>SKILLS</mark>
 
